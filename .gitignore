@@ -1,0 +1,8 @@
+.vscode/
+nerfstudio/
+vizflyt_viewer/ 
+vizflyt_ws/src/data
+vizflyt_ws/src/outputs
+vizflyt_ws/src/ExpTestvizflyt_ws/build/
+vizflyt_ws/install/
+*.so
